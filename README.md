@@ -1,7 +1,4 @@
 # HuntMMR
-
-pip install -r requirements.txt
-
 Tool to check your MMR in Hunt: Showdown.
 
 Finds all steam installations and then checks them for the path for the attributes.xml file and then looks for the latest MMR attribute and prints it with star rating and how much MMR for next rank
