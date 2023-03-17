@@ -1,7 +1,7 @@
 # HuntMMR
 Tool to check your MMR in Hunt: Showdown.
 
-Finds all steam installations and then checks them for the path for the attributes.xml file and then looks for the latest MMR attribute and prints it with star rating and how much MMR for next rank
+Finds all installation locations -> checks for attributes.xml file and finds newest MMR attribute and prints it with star rating and how much MMR for next rank
 
 TODO: rip additional features from hunts files
 
