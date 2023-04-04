@@ -33,7 +33,7 @@ class HuntMMR:
         self.next_rank_label.place(relx=0.5, rely=0.55, anchor='center')
 
         self.window.mainloop()
-
+#
     def get_mmr_path(self):
         drives = [chr(i) + ":\\" for i in range(ord('A'), ord('Z') + 1)]
         path = "Steam\\steamapps\\common\\Hunt Showdown\\user\\profiles\\default\\attributes.xml"
